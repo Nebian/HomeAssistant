@@ -5,12 +5,12 @@
 #include <PubSubClient.h>
 #include "pitches.h"
 
-const char* ssid = "Crotolamo";
-const char* password = "CJ*ooC4c*9@Y@zq743*TXc";
+const char* ssid = "*********";
+const char* password = "***********";
 const char* mqtt_server = "192.168.1.68";
 
-const char* mqtt_username = "mqttest";
-const char* mqtt_password = "@H3#tK4x6an3W!9*K**88B";
+const char* mqtt_username = "********";
+const char* mqtt_password = "***********";
 
 const int BUZZER_PIN = 4; // LED connected to GPIO4
 
